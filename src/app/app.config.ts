@@ -10,13 +10,13 @@ import { getFirestore } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyD-gSkei75s1GYACeyOpiB9IuhpTtN_c8g',
+  apiKey: '',
   authDomain: 'taskmaster-v1.firebaseapp.com',
   projectId: 'taskmaster-v1',
   storageBucket: 'taskmaster-v1.appspot.com',
-  messagingSenderId: '649629066740',
-  appId: '1:649629066740:web:97f9b25c7ac3920d65c5a1',
-  measurementId: 'G-XZX03GK3BS',
+  messagingSenderId: '',
+  appId: '',
+  measurementId: '',
 };
 
 export const appConfig: ApplicationConfig = {
